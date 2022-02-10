@@ -10,6 +10,7 @@ class MyType:
         self.greeting1 = "Howdy"
         self.greeting2 = "Hey"
         self.greeting3 = "Cheers"
+        self.greeting4 = "Salut"
         self.greetings = [self.greeting1, self.greeting2, self.greeting3]
 
     def greet(self, name):
